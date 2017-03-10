@@ -2,7 +2,7 @@
 check your memory.
 
  
-## Please visit our [live application](https://tranquil-depths-79222.herokuapp.com/
+## Please visit our [live application](https://tranquil-depths-79222.herokuapp.com/)
 
  ![project logo (this one for is taken from basecamp - a project management service)]
 (https://github.com/AlaaZme/memGame/blob/master/card14.jpg)
