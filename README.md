@@ -20,6 +20,13 @@ if your score  < 90  ; = good memory
 ## Disclaimer
 i claim all the rights@ reserved to AlaaZme Cop.
 
+##Development & Tools 
+HTML,CSS,JavaScript,jQurey
+Notepad , google chrome
+
+##Deployment
+ heroku
+ 
 ### Please visit our wiki for furthur project info: 
 
 ### [User Manual](../../wiki/user-manual) (empty for now)
