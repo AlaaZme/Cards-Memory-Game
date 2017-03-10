@@ -1,12 +1,10 @@
 # Memory Game
-check your memory.
+check your memory. by a simple game
 
- 
- 
 ## Click here to Play [live application](https://tranquil-depths-79222.herokuapp.com/)
 
  ![project logo (this one for is taken from basecamp - a project management service)]
-(https://github.com/AlaaZme/memGame/blob/master/card14.jpg)
+(https://github.com/AlaaZme/memGame/blob/master/card12.jpg)
 
  
 ## Tools & Practices
@@ -19,11 +17,8 @@ check your memory.
 | Project Course Status | Done |
  
 
-
-
-
 ## Disclaimer
-My Own idea i cliam all the rights@ reserved to AlaaZme Cop.
+i claim all the rights@ reserved to AlaaZme Cop.
 
 ### Please visit our wiki for furthur project info: 
 
@@ -32,5 +27,5 @@ My Own idea i cliam all the rights@ reserved to AlaaZme Cop.
 ### [Game Page](../../wiki/Game)
 
 ### Team
-developed solely by me.
+developed and created solely by me.
 
