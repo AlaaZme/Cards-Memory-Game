@@ -1,6 +1,6 @@
 # Memory Game
 check your memory. by a simple game
-
+if your score  < 90  ; = good memory
 ##  [Click here to Play](https://tranquil-depths-79222.herokuapp.com/)
 
  ![project logo (this one for is taken from basecamp - a project management service)]
