@@ -1,7 +1,7 @@
 # Memory Game
 check your memory. by a simple game
 
-## Click here to Play [live application](https://tranquil-depths-79222.herokuapp.com/)
+##  [Click here to Play](https://tranquil-depths-79222.herokuapp.com/)
 
  ![project logo (this one for is taken from basecamp - a project management service)]
 (https://github.com/AlaaZme/memGame/blob/master/card12.jpg)
