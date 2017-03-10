@@ -2,14 +2,13 @@
 check your memory.
 
  
-## Please visit our [live application](https://tranquil-depths-79222.herokuapp.com/)
+ 
+## Click here to Play [live application](https://tranquil-depths-79222.herokuapp.com/)
 
  ![project logo (this one for is taken from basecamp - a project management service)]
 (https://github.com/AlaaZme/memGame/blob/master/card14.jpg)
 
-  
-## Please visit our [live application](https://tranquil-depths-79222.herokuapp.com/)
-
+ 
 ## Tools & Practices
 
 |Category|Status|
@@ -24,12 +23,14 @@ check your memory.
 
 
 ## Disclaimer
-My Own idea i cliam all the right@
+My Own idea i cliam all the rights@ reserved to AlaaZme Cop.
 
 ### Please visit our wiki for furthur project info: 
 
 ### [User Manual](../../wiki/user-manual) (empty for now)
 
-### [Team Page](../../wiki/team)
+### [Game Page](../../wiki/Game)
 
+### Team
+developed solely by me.
 
