@@ -4,7 +4,7 @@ if your score  < 90  ; = good memory
 ##  [Click here to Play](https://tranquil-depths-79222.herokuapp.com/)
 
  ![project logo (this one for is taken from basecamp - a project management service)]
-(https://github.com/AlaaZme/memGame/blob/master/card12.jpg)
+(https://raw.githubusercontent.com/AlaaZme/memGame/master/Screenshot%20(113).png)
 
  
 ## Tools & Practices
