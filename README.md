@@ -1,7 +1,7 @@
 # Memory Game
-check your memory. by a simple game
-if your score  < 94  (; = good memory
-(connected to google analytics server, monitoring web pages activities).you been warned. 
+check your memory. by a simple game<br>
+if your score  < 94  (; = good memory<br>
+(connected to google analytics server, monitoring web pages activities).you been warned. <br>
 ##  [Click here to Play](https://tranquil-depths-79222.herokuapp.com/)
 
  ![project logo (this one for is taken from basecamp - a project management service)]
