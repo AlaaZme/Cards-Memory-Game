@@ -5,7 +5,7 @@ if your score  < 94  (; = good memory<br>
 ##  [Click here to Play](https://tranquil-depths-79222.herokuapp.com/)
 
  ![project logo (this one for is taken from basecamp - a project management service)]
-(https://github.com/AlaaZme/Cards-Memory-Game/blob/master/Screenshot%20(113).png)
+(https://raw.githubusercontent.com/AlaaZme/Cards-Memory-Game/master/Screenshot%20(113).png)
 
  
 ## Tools & Practices
